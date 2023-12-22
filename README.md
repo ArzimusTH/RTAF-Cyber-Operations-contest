@@ -1,1 +1,1 @@
-# RTAF-Cyber-Operations-contest-2022
+# RTAF-Cyber-Operations-contest
